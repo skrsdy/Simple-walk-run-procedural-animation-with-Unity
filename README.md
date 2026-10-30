@@ -3,6 +3,7 @@ Walking and running are fundamentally the same thing — the parameters on each 
 It is more of a personal exercise than a mature solution.
 It need Rigging Animation Package.
 
+<img width="320" height="320" alt="running" src="https://github.com/user-attachments/assets/0aba8bf2-95ae-4c74-b59e-9366a7f0d441" />
 Note: the PA class does not handle character turning or camera movement — those are provided by the Camera class. 
 You are free to use your own camera setup; PA only needs a world-space movement vector.
 
